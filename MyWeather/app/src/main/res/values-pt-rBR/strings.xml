@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meu Clima</string>
+    <string name="search">Buscar</string>
+    <string name="favorite">Favoritos</string>
+    <string name="settings">Configurações</string>
+    <string name="search_text">Digite o nome de uma cidade…</string>
+    <string name="temperature_unit">Unidade de Temperatura</string>
+    <string name="celsius">°C</string>
+    <string name="fahrenheit">°F</string>
+    <string name="lang">Seleção de Idioma</string>
+    <string name="en">Inglês</string>
+    <string name="pt">Português</string>
+    <string name="weather_status">Imagem do estado do clima</string>
+    <string name="save">Salvar</string>
+</resources>
